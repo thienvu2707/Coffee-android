@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Coffee online shop</string>
+    <string name="toppings">Toppings</string>
+    <string name="input_name">Enter your name here...</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity_coffee">quantity of coffees</string>
+    <string name="id_name" translatable="false">typing_name</string>
+    <string name="java_cus_name">Customer name:</string>
+    <string name="java_add_whipped_cream">Add whipped cream? </string>
+    <string name="java_add_chocolate">Add chocolate? </string>
+    <string name="java_quantity_string">Quantity: </string>
+    <string name="java_total_price">Total: $</string>
+    <string name="java_thank_you">Thank you</string>
+    <string name="order">order</string>
+    <string name="thank_you">Thank you</string>
+</resources>
